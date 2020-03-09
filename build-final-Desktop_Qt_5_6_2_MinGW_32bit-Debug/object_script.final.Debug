@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\playpart.o
+./debug\taku.o
+./debug\point.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+./debug\moc_playpart.o
+./debug\moc_taku.o
+./debug\moc_point.o
+);

@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\playpart.o
+./release\taku.o
+./release\point.o
+./release\qrc_resource.o
+./release\moc_mainwindow.o
+./release\moc_playpart.o
+./release\moc_taku.o
+./release\moc_point.o
+);
